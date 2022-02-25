@@ -1,0 +1,34 @@
+{
+  "name": "tessmusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "FullGreen",
+  "license": "SEE LICENSE IN ./license",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "ytdl-core": "^4.9.1"
+  },
+  "description": "Music Bot for Discord",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TessBots/TessMusic.git"
+  },
+  "keywords": [
+    "Discord",
+    "MusicBot",
+    "music",
+    "bot",
+    "discordjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/TessBots/TessMusic/issues"
+  },
+  "homepage": "https://github.com/TessBots/TessMusic#readme"
+}
